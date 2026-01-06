@@ -23,3 +23,5 @@ data/
 
 # OS
 .DS_Store
+
+.cursor/
