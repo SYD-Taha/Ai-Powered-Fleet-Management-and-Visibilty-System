@@ -1,0 +1,25 @@
+# Node / Frontend
+node_modules/
+dist/
+build/
+
+# Backend / Python / ML
+__pycache__/
+*.pyc
+.venv/
+env/
+
+# ML models & data
+models/
+data/
+*.pkl
+
+# Environment variables
+.env
+.env.*
+
+# Logs
+*.log
+
+# OS
+.DS_Store

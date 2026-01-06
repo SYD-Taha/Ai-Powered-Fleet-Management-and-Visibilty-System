@@ -1,0 +1,16 @@
+{
+  "name": "vehicle-simulator",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "Fleet vehicle movement simulator",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "node --watch index.js"
+  },
+  "dependencies": {
+    "axios": "^1.6.0",
+    "dotenv": "^16.3.1",
+    "mqtt": "^5.3.0"
+  }
+}
