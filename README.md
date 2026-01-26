@@ -774,7 +774,10 @@ This project is licensed under the ISC License.
 
 ## 👥 Authors
 
-- **Your Name** - *Initial work*
+- **Syed Taha Jameel** - *Initial work*
+- **Rimsha Masood** - *Initial work*
+- **Saman Aslam** - *Initial work*
+- **Zoya Ali** - *Initial work*
 
 ## 🙏 Acknowledgments
 
@@ -802,3 +805,4 @@ For support, please:
 ---
 
 **Note**: This is a comprehensive fleet management system designed for production use. Ensure all security measures are properly configured before deploying to production.
+
